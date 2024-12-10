@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacturasApi", "FacturasApi\FacturasApi.csproj", "{57576229-EC4B-4CE5-B052-8F666586CAFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacturasApi.Tests", "FacturasApi.Tests\FacturasApi.Tests.csproj", "{D8E3A105-7522-4BB4-A142-0080E25A7808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57576229-EC4B-4CE5-B052-8F666586CAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57576229-EC4B-4CE5-B052-8F666586CAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57576229-EC4B-4CE5-B052-8F666586CAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57576229-EC4B-4CE5-B052-8F666586CAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E3A105-7522-4BB4-A142-0080E25A7808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E3A105-7522-4BB4-A142-0080E25A7808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E3A105-7522-4BB4-A142-0080E25A7808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E3A105-7522-4BB4-A142-0080E25A7808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FF5A19-42C0-4BC9-8B55-D103E911F755}
+	EndGlobalSection
+EndGlobal
