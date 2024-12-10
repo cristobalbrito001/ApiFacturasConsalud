@@ -20,7 +20,6 @@ namespace FacturasApi.Tests.Controllers
             // Usar el constructor sin parámetros
             _mockService = new Mock<FacturasService>();
 
-            // Inicializar el controlador con el mock
             _controller = new FacturasController(_mockService.Object);
         }
 
